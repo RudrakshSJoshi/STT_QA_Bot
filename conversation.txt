@@ -1,0 +1,9 @@
+Interviewer: Can you briefly introduce yourself and tell us why you're interested in this SDE intern position?
+Interviewee: Sure! I'm Rudraksh, currently studying Computer Science. I specialize in AI, Web Development, and Cryptography. I'm looking for an opportunity to apply my skills in real-world projects and grow as a developer.
+Interviewer: That’s great! Let's talk about AI first. Can you tell me about a recent AI project you've worked on?
+Interviewee: Yes, I developed a recommendation system for a movie platform. I used collaborative filtering with matrix factorization in Python, leveraging libraries like Pandas and Scikit-learn to build the model. I also explored hybrid approaches to improve recommendation accuracy.
+Interviewer: That sounds interesting! Moving to Web Development, what frameworks and technologies have you worked with recently?
+Interviewee: I've worked with React.js for frontend development and Node.js with Express for backend APIs. For databases, I’ve used both MongoDB and PostgreSQL depending on the project requirements. I’ve also deployed apps using AWS and Heroku.
+Interviewer: Great! Since you have experience in cryptography, can you explain some algorithms you’ve worked with?
+Interviewee: Sure! I’ve worked with RSA for public-key encryption, AES for symmetric encryption, and SHA-256 for hashing. I also implemented ECDSA for digital signatures in a decentralized application. These algorithms have helped me understand the principles of data security.
+Interviewer: Interesting. How would you secure a web application that handles sensitive user data?

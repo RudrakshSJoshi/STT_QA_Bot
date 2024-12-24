@@ -1,0 +1,59 @@
+Rudraksh Sachin Joshi  
+Adm. No. 22JE0825 • 9810091219  
+# rsjoshi0505@gmail.com • https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/ • https://github.com/RudrakshSJoshi
+
+Education  
+Indian Institute of Technology (Indian School of Mines) Dhanbad  
+Oct 2022 - June 2026 (Expected)  
+Bachelor of Technology in Computer Science and Engineering (CGPA: 9.37)  
+Dhanbad, Jharkhand  
+• Relevant Coursework: Data Structures and Algorithms (C++), Probability and Statistics, Introduction to C Programming, Linear Algebra, Object-Oriented Programming (OOPs), Operating Systems (OS), Database Management Systems (DBMS)  
+
+Experience  
+Wingify  
+Jun 2024 - Oct 2024  
+Artificial Intelligence Intern  
+New Delhi, Delhi  
+• Developed chatbots for financial literacy and nutrition science using Retrieval Augmented Generation (RAG) and CrewAI, incorporating report analysis features for enhanced user engagement.  
+• Increased retrieval relevance accuracy from 82% to 92% by transitioning from gte-large-en-v1.5 to e5-mistral-7b-instruct. Applied Chain of Thoughts processing and context caching to achieve a 96% overall response accuracy.  
+
+Amazon  
+Jul 2024 - Aug 2024  
+Machine Learning Summer School ’24 Apprentice  
+Remote  
+• Mastered the fundamentals of machine learning, including supervised learning, deep neural networks, probabilistic graphical models, dimensionality reduction, unsupervised learning, sequential models, Large Language Models, and Generative AI through 30+ hours of virtual classroom sessions.  
+• Engaged in interactive sessions with experienced Amazon scientists, addressing 50+ real-world machine learning challenges. Collaborated with 100+ students from top academic institutions such as IITs, NITs, and DTU.  
+
+Projects  
+DiagMapICD | Python, TF-IDF, LLM Validation, Statistical Scoring, Soundex, Lemmatization, JSON  
+• Created a fast diagnosis-to-ICD-10 mapper over unsupervised datasets on ICD10 data using efficient search algorithms, enhancing diagnosis coding accuracy. Shifted from CSV to JSON for maintaining file structure for better data organization and maintenance.  
+• Implemented an inverse document frequency approach to maximize search retrieval, shifting from string matching (83% accuracy) to linear scaling (93% accuracy), and finally to inverse logarithmic scaling with custom scaling reaching 97% retrieval accuracy.  
+• Achieved a score of 98.8% accuracy over test dataset by utilizing Soundex and Lemmatization to improve text similarity matching.  
+
+MediBot | React.js, Node.js, Python, FastAPI, Flask, MongoDB, FAISS, Chroma, Sentence Transformers, Authentication  
+• Developed a website for a medical chatbot by implementing full-stack development with authentication and data storage for secure user access and optimized data retrieval using Retrieval Augmented Generation (RAG) with context caching for optimized responses.  
+• Switched from ChromaDB to FAISS, reducing retrieval time from 2s to 130ms, and added CrewAI for improved medical report analysis.  
+• Enhanced database and memory retrieval through authentication, achieving a query relevance accuracy increase from 92% to 97% across 200 queries, delivering optimized response accuracy.  
+• Included chat history downloads for enhanced privacy and secure medical record-keeping, maintained an engaging UI, increasing user satisfaction with effective web scraping techniques for contextually relevant information retrieval.  
+
+ExpressHealth | React.js, Node.js, Python, MongoDB, Cloudinary, Google Cloud API, DialogFlow, Flask, Authentication  
+• Developed a healthcare platform leveraging ML/AI-driven image processing, pattern detection, and advanced chatbots. Implemented DialogFlow, boosting patient engagement and supporting research efforts with enhanced AI capabilities.  
+• Implemented centralized database management with index management and rigorous data cleaning processes, improving registered user growth and increasing medical data storage and analysis efficiency by optimizing backend systems.  
+• Integrated Cloudinary for efficient multimedia management and transitioned from basic APIs to Google Cloud APIs for virtual assistants and image processing, achieving improvement in accuracy and processing speed for scalable, high-performance medical data handling.  
+
+Technical Skills  
+• Languages: Python, C/C++, SQL, HTML/CSS, JavaScript/TypeScript, Arduino IDE  
+• Frameworks/Technologies: React.js, Express.js, Flask, FastAPI, Docker, Kubernetes, Node.js, SQLite, FAISS, Neo4j (Cypher), MongoDB, CrewAI, PyTorch, TensorFlow, Keras, GANs, Matplotlib, NumPy, Pandas, Scikit-Learn, XGBoost, NLTK, Transformers, OpenCV, Pillow, Dialogflow, SpaCy  
+• Tools: Git/GitHub, Vercel, VS Code, PyCharm, MongoDB, QGIS, Kaggle/Colab/Jupyter  
+• Concepts: Generative Adversarial Networks, Encoder-Decoder Architecture, Convolutional Neural Networks, Operating System, Virtual Memory, Encryption, Decryption, Artificial Intelligence, Machine Learning, Neural Networks, API, Data Structures and Algorithms, Object Oriented Programming  
+
+Achievements  
+• 2nd Runner Up at HackFest’24 conducted by IIT (ISM) Dhanbad  
+• Secured team AIR 26 at eYRC 2023-23 in Software Implementation  
+• Secured AIR 2741 [JEE Advanced 2022] and AIR 3676 [JEE Mains 2022]  
+• CodeForces: Max Rating 1442, Best Global Rank in contests: 1508  
+
+Social Engagements & Societies  
+• Executive Member: atWebCSE (Full Stack & Web Development Society), IIT (ISM) Dhanbad  
+• Coordinator: at CSAI (AI and Machine Learning Society), IIT (ISM) Dhanbad  
+• Sports-Engagements: Freestyle Swimming, Chess, Badminton  
