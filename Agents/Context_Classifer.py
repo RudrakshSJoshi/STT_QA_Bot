@@ -15,11 +15,13 @@ def classify_context(question):
     )
 
     # Define the prompt
-    prompt = f"""Your aim is to classify the context into one of the 3 categories:
+    prompt = f"""Your aim is to classify the question into one of the 3 categories:
 1. Personal Question
 2. Web Scraping Question
 3. LLM Answerable question
 
+You should always think from the perspective of the person answering the question.
+Any question asking to introduce oneself should be a personal question, and not related to LLM, as you should be in the feet of the person answering the question.
 If the question asks about questions specific to a person and his/her work related stuff, you should classify it as a personal question by responding with '1'.
 Personal questions include explaining work experience, education, skills, past jobs, teamwork, etc.
 If the question asks something where internet is required to know the answer, you should classify it as a web scraping question by responding with '2'.

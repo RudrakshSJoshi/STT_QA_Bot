@@ -47,6 +47,7 @@ def WebScrape_Agent_Answer(question):
     )
 
     context = search_internet(question)
+    print(context)
 
     # Define the prompt for summarizing to a question
     prompt = prompt = f"""Given a question and the context,

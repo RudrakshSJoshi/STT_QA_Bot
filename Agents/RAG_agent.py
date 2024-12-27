@@ -17,6 +17,8 @@ def RAG_Agent_Answer(question, user_path="user_data.txt"):
     # Read the user data from the file
     with open(user_path, 'r') as file:
         user_info = file.read().strip()
+    
+    # print(user_info)
 
     # Define the prompt for summarizing to a question
     prompt = f"""Given a question and the person's data, you are supposed to answer the question based on the person's data,
